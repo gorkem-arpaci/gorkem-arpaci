@@ -1,4 +1,4 @@
-k<h2 align="left">Hi 👋! My name is Gorkem and I'm a iOS dev. from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Gorkem and I'm a iOS dev. from Turkey</h2>
 
 ###
 
