@@ -66,12 +66,3 @@ k<h2 align="left">Hi 👋! My name is Gorkem and I'm a iOS dev. from Turkey</h2>
 
 <img src="https://raw.githubusercontent.com/gorkem-arpaci/gorkem-arpaci/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/görkem_a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=g%C3%B6rkem_a&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
