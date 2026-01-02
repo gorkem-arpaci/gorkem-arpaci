@@ -2,9 +2,11 @@
 
 ### iOS Developer | Full-Stack Engineer | AI Enthusiast
 
-Final-year Computer Engineering student from Turkey 🇹🇷, specializing in iOS development with a strong full-stack background. Currently focused on integrating AI into mobile applications and mastering software architecture patterns.
-
----
+<div>
+  <img src="https://i.imgflip.com/9hrehm.jpg" alt="AI Meme" width="200" align="right"/>
+  Final-year Computer Engineering student from Turkey 🇹🇷, specializing in iOS development with a strong full-stack background. Experienced in building scalable mobile and web applications using modern frameworks and design patterns. Currently focused on integrating AI into mobile applications and mastering software architecture patterns.
+</div>
+<br clear="both"/>
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +38,7 @@ Final-year Computer Engineering student from Turkey 🇹🇷, specializing in iO
 
 ### AI & Machine Learning
 <p>
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/anthropic/000000" alt="Claude" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
@@ -53,6 +55,7 @@ Final-year Computer Engineering student from Turkey 🇹🇷, specializing in iO
 </p>
 
 ---
+
 
 ## 🎯 What I'm Focused On
 
