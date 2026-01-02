@@ -18,10 +18,10 @@ Final-year Computer Engineering student from Turkey 🇹🇷, specializing in iO
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorkem-arpaci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gorkem-arpaci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=gorkem-arpaci&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkem-arpaci&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -120,5 +120,3 @@ My development environment setup featuring Neovim, Tmux, and Zsh configurations
 ![Snake animation](https://raw.githubusercontent.com/gorkem-arpaci/gorkem-arpaci/output/snake.svg)
 
 </div>
-
----
