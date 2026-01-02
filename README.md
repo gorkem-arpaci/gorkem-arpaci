@@ -122,9 +122,3 @@ My development environment setup featuring Neovim, Tmux, and Zsh configurations
 </div>
 
 ---
-
-<div align="center">
-  <i>💡 "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."</i>
-  <br>
-  <b>- Robert C. Martin</b>
-</div>
