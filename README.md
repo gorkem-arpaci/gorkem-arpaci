@@ -6,6 +6,54 @@ Final-year Computer Engineering student from Turkey 🇹🇷, specializing in iO
 
 ---
 
+## 🛠️ Tech Stack
+
+### Mobile Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="45" height="45"/>
+</p>
+
+### Web Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="45" height="45"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
+</p>
+
+### AI & Machine Learning
+<p>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/anthropic/000000" alt="Claude" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Neovim" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="45" height="45"/>
+</p>
+
+---
+
 ## 🎯 What I'm Focused On
 
 - 🍎 **iOS Development** - Building native apps with Swift and SwiftUI
@@ -15,65 +63,9 @@ Final-year Computer Engineering student from Turkey 🇹🇷, specializing in iO
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gorkem-arpaci&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkem-arpaci&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Top Languages" />
-
-</div>
-
 ---
 
-## 🛠️ Tech Stack
 
-### Mobile Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
-</p>
-
-### Web Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40"/>
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-</p>
-
-### AI & Machine Learning
-<p>
-  <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/anthropic/000000" alt="Claude" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Neovim" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
-</p>
-
----
 
 ## 🌟 Featured Projects
 
