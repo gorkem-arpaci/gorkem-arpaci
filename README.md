@@ -72,12 +72,11 @@
 
 ## 🌟 Featured Projects
 
-### 🔧 [dotfiles](https://github.com/gorkem-arpaci/dotfiles)
-My development environment setup featuring Neovim, Tmux, and Zsh configurations
-- Terminal-agnostic configuration
-- Managed with GNU Stow
-- Optimized for macOS (Apple Silicon)
-
+### 🔧 [EVOR](https://github.com/gorkem-arpaci/EVOR)
+Developing an AI-powered route planning application that will enable
+electric vehicles to travel between cities via the most suitable charging points, eliminating range anxiety.
+- Mobile application developed with SwiftUI.
+- Grok 4.1 API
 ---
 
 ## 💼 What I Do
